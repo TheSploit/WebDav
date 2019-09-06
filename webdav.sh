@@ -30,8 +30,6 @@ pkg install libcurl
 clear
 pip install curl
 clear
-pip2 install urllib3 chardet certifi idna requests
-clear
 echo
 echo $bi"####################["$cy"HELLO"$bi"]####################"
 echo $bi"##"$pu"========================================================="$bi"##"
